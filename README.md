@@ -1,6 +1,6 @@
 # Quantum Computer Programming
 
-This repository is the implementation of quantum computer programming using python
+This repository is the implementation of **Quantum Computer Programming** using Python.
 
 - The library used is [Cirq](https://github.com/quantumlib/Cirq)
 
