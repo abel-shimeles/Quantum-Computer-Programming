@@ -27,3 +27,7 @@ pip install -r requirements.txt
 
 The implementation's in this repository are inspired from the book [Quantum Computing: An Applied Approach 2nd ed. 2021 Edition](https://www.amazon.com/Quantum-Computing-An-Applied-Approach-dp-3030832732/dp/3030832732/ref=dp_ob_title_bk)
 
+This repository is the improved implementation of the [original](https://github.com/JackHidary/quantumcomputingbook/tree/master) book author implementation which relied on `cirq==0.5`, while this is implemented in `cirq==1.2.0`.
+
+
+
