@@ -10,7 +10,7 @@ ops = [cirq.CZ(q55, q56), cirq.CZ(q66, q67)]
 
 print(cirq_google.Sycamore)
 
-circuit = cirq.Circuit(strategy=cirq_google.Sycamore)
+circuit = cirq.Circuit()
 circuit.append(ops)
 
 print(circuit)
